@@ -1,0 +1,8 @@
+{
+  "source_f0_mean_hz": 124.01297061374976,
+  "baseline_f0_mean_hz": 244.6885769870855,
+  "enhanced_f0_mean_hz": 127.77663964542418,
+  "source_duration_sec": 12.0,
+  "baseline_duration_sec": 10.683,
+  "enhanced_duration_sec": 10.685
+}
